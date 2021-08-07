@@ -1,0 +1,19 @@
+{
+  "name": "tree-sitter-srh",
+  "version": "0.0.0",
+  "description": "tree sitter language spec for hobbyist language named srh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunharker/tree-sitter-srh.git"
+  },
+  "author": "Shaun Harker <sharker81@gmail.com> (https://shaunharker.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaunharker/tree-sitter-srh/issues"
+  },
+  "homepage": "https://github.com/shaunharker/tree-sitter-srh#readme"
+}
